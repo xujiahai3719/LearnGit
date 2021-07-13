@@ -5,5 +5,6 @@ public class TestGit {
         System.out.println("第三个版本");
         System.out.println("第四个版本");
         System.out.println("分支增加的内容");
+        System.out.println("分支最后一次新增的内容");
     }
 }
