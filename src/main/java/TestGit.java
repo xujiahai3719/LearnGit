@@ -8,5 +8,6 @@ public class TestGit {
         System.out.println("分支增加的内容");
         System.out.println("分支最后一次新增的内容");
         System.out.println("主分支也来一次新增内容");
+         System.out.println("主分支也来第二次新增内容");
     }
 }
